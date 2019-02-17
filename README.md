@@ -11,3 +11,4 @@ Bring a laptop (PC, Mac or Chromebook)! The labs will run on all of the latest v
 | Agenda: | |
 |---|---|
 | 9:00am |  Google Cloud Platform Essentials labs |
+| 11:00am | Break |
