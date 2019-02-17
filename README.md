@@ -12,3 +12,5 @@ Bring a laptop (PC, Mac or Chromebook)! The labs will run on all of the latest v
 |---|---|
 | 9:00am |  Google Cloud Platform Essentials labs |
 | 11:00am | Break |
+| 11:40am | Intro to Docker (Demo) |
+| 1:00pm | Event ends |
