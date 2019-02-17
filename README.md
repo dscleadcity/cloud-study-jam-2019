@@ -2,7 +2,7 @@
 
 Want to get started on the Google Cloud, but don't know where to begin? Join us for our Cloud Study Jam! This event will be taking place on **March 15th** 2019.  
 
-Get official Google training, a $55+ value, free of charge. Together we'll work through 4 Google Cloud labs. You will get hands-on experience with the cloud console, Kubernetes and Machine Learning.   
+Get official Google training, a $55+ value, free of charge. Together we'll work through 4 Google Cloud labs. You will get hands-on experience with the cloud console, Kubernetes as well as other interesting technologies.   
 
 Then after the meetup, you will have free access to 3 more labs you can finish at home. Complete all 7 labs and earn a Google-hosted badge for your online profile.  
 
