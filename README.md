@@ -10,9 +10,9 @@ Bring a laptop (PC, Mac or Chromebook)! The labs will run on all of the latest v
 
 | Agenda: | March 15, 2019 |
 |---|---|
-| 10:00am | **Google Cloud Platform Essentials labs** |
-| 12:00am | **Break** |
-| 12:40am | **Intro to Docker (Demo)** |
-| 2:00pm | **Event ends** |
+| 10:00 am | **Google Cloud Platform Essentials labs** |
+| 12:00 am | **Break** |
+| 12:40 am | **Intro to Docker (Demo)** |
+| 2:00 pm | **Event ends** |
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScc5nyrvm01ClnVNdVBxoux0Ji5M8lM_7dL1PHFkq5quAIEMg/viewform?embedded=true" width="100%" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
